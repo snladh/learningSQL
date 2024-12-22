@@ -121,4 +121,4 @@ SELECT Name, Department, JoiningDate, datediff(year,JoiningDate,Curdate()) AS te
 
 -- COMMAND ----------
 
-
+-- END OF THE PROBLEM
