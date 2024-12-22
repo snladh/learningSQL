@@ -11,6 +11,8 @@ CREATE TABLE Employee1 (
     JoiningDate DATE
 );
 
+-- Inserting values in the table.
+
 INSERT INTO Employee1 (EmployeeID, Name, Department, Salary, JoiningDate) VALUES
 (1, 'Alice', 'Sales', 70000, '2021-03-15'),
 (2, 'Bob', 'Sales', 68000, '2022-04-20'),
