@@ -1,7 +1,7 @@
 -- Databricks notebook source
 -- Assessment on SQL
 
--- Schema and data for Employee table:
+-- Schema for Employee table:
 
 CREATE TABLE Employee1 (
     EmployeeID INT,
